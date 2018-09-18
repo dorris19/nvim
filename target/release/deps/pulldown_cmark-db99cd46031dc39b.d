@@ -1,0 +1,13 @@
+/home/dylan/.config/nvim/target/release/deps/libpulldown_cmark-db99cd46031dc39b.rlib: /home/dylan/.cargo/registry/src/github.com-1ecc6299db9ec823/pulldown-cmark-0.1.2/src/lib.rs /home/dylan/.cargo/registry/src/github.com-1ecc6299db9ec823/pulldown-cmark-0.1.2/src/html.rs /home/dylan/.cargo/registry/src/github.com-1ecc6299db9ec823/pulldown-cmark-0.1.2/src/passes.rs /home/dylan/.cargo/registry/src/github.com-1ecc6299db9ec823/pulldown-cmark-0.1.2/src/parse.rs /home/dylan/.cargo/registry/src/github.com-1ecc6299db9ec823/pulldown-cmark-0.1.2/src/scanners.rs /home/dylan/.cargo/registry/src/github.com-1ecc6299db9ec823/pulldown-cmark-0.1.2/src/entities.rs /home/dylan/.cargo/registry/src/github.com-1ecc6299db9ec823/pulldown-cmark-0.1.2/src/escape.rs /home/dylan/.cargo/registry/src/github.com-1ecc6299db9ec823/pulldown-cmark-0.1.2/src/puncttable.rs /home/dylan/.cargo/registry/src/github.com-1ecc6299db9ec823/pulldown-cmark-0.1.2/src/utils.rs
+
+/home/dylan/.config/nvim/target/release/deps/pulldown_cmark-db99cd46031dc39b.d: /home/dylan/.cargo/registry/src/github.com-1ecc6299db9ec823/pulldown-cmark-0.1.2/src/lib.rs /home/dylan/.cargo/registry/src/github.com-1ecc6299db9ec823/pulldown-cmark-0.1.2/src/html.rs /home/dylan/.cargo/registry/src/github.com-1ecc6299db9ec823/pulldown-cmark-0.1.2/src/passes.rs /home/dylan/.cargo/registry/src/github.com-1ecc6299db9ec823/pulldown-cmark-0.1.2/src/parse.rs /home/dylan/.cargo/registry/src/github.com-1ecc6299db9ec823/pulldown-cmark-0.1.2/src/scanners.rs /home/dylan/.cargo/registry/src/github.com-1ecc6299db9ec823/pulldown-cmark-0.1.2/src/entities.rs /home/dylan/.cargo/registry/src/github.com-1ecc6299db9ec823/pulldown-cmark-0.1.2/src/escape.rs /home/dylan/.cargo/registry/src/github.com-1ecc6299db9ec823/pulldown-cmark-0.1.2/src/puncttable.rs /home/dylan/.cargo/registry/src/github.com-1ecc6299db9ec823/pulldown-cmark-0.1.2/src/utils.rs
+
+/home/dylan/.cargo/registry/src/github.com-1ecc6299db9ec823/pulldown-cmark-0.1.2/src/lib.rs:
+/home/dylan/.cargo/registry/src/github.com-1ecc6299db9ec823/pulldown-cmark-0.1.2/src/html.rs:
+/home/dylan/.cargo/registry/src/github.com-1ecc6299db9ec823/pulldown-cmark-0.1.2/src/passes.rs:
+/home/dylan/.cargo/registry/src/github.com-1ecc6299db9ec823/pulldown-cmark-0.1.2/src/parse.rs:
+/home/dylan/.cargo/registry/src/github.com-1ecc6299db9ec823/pulldown-cmark-0.1.2/src/scanners.rs:
+/home/dylan/.cargo/registry/src/github.com-1ecc6299db9ec823/pulldown-cmark-0.1.2/src/entities.rs:
+/home/dylan/.cargo/registry/src/github.com-1ecc6299db9ec823/pulldown-cmark-0.1.2/src/escape.rs:
+/home/dylan/.cargo/registry/src/github.com-1ecc6299db9ec823/pulldown-cmark-0.1.2/src/puncttable.rs:
+/home/dylan/.cargo/registry/src/github.com-1ecc6299db9ec823/pulldown-cmark-0.1.2/src/utils.rs:
