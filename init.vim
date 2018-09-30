@@ -1,3 +1,4 @@
+
 set spell spelllang=en
 
 call plug#begin('~/.local/share/nvim/plugged')
@@ -34,8 +35,8 @@ Plug 'c9s/perlomni.vim'
 Plug 'Shougo/deoplete.nvim', {'do': ':UpdateRemotePlugins'}
 Plug 'coot/atp_vim'
 let g:deoplete#enable_at_startup = 1
-let g:python_host_prog = '/usr/local/bin/python'
-let g:python3_host_prog = 'usr/local/bin/python3'
+let g:python_host_prog = '/usr/local/bin/python2.7'
+let g:python3_host_prog = 'usr/local/bin/python3.7'
 call plug#end()
 colorscheme Tomorrow-Night-Eighties  
 syntax on 
@@ -55,5 +56,5 @@ function! LooksLikePerl6 ()
     endfor
   endif
 endfunction
-
-au bufRead *.pm,*.t,*.pl call LooksLikePerl6()
+let g:Tex_MultipleCompileFormats='pdf,bib,pdf'
+au bufRead *.pm,*.t call LooksLikePerl6()
